@@ -1,0 +1,10 @@
+<map id="misc.hpp" name="misc.hpp">
+<area shape="rect" id="node3" href="$d0/d0d/counter_8hpp.html" title="count how many instances are created " alt="" coords="144,80,267,107"/>
+<area shape="rect" id="node4" href="$d4/d78/math_8hpp.html" title="functions for basic mathematics " alt="" coords="291,80,399,107"/>
+<area shape="rect" id="node5" href="$d1/d9a/MACRO_8hpp.html" title="predefined macro functions for FATAL " alt="" coords="350,155,477,181"/>
+<area shape="rect" id="node13" href="$dc/d3f/validate_8hpp.html" title="collection of functions to validate inputs this file contains functions for debug purposes..." alt="" coords="733,80,856,107"/>
+<area shape="rect" id="node21" href="$d4/dcf/watch_8hpp.html" title="measure elapsed time " alt="" coords="475,80,589,107"/>
+<area shape="rect" id="node23" href="$d8/da6/rand__string_8hpp.html" title="define a function to generate random string " alt="" coords="934,80,1077,107"/>
+<area shape="rect" id="node25" href="$de/d9b/new__enum_8hpp.html" title="enum classes for FATAL " alt="" coords="1140,80,1281,107"/>
+<area shape="rect" id="node16" href="$da/d42/Exception_8hpp.html" title="a header to define a custom exception for FATAL. " alt="" coords="1185,155,1311,181"/>
+</map>
